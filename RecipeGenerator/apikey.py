@@ -1,2 +1,1 @@
-import os
-apikey = os.environ.get('OPENAI_API_KEY')
+apikey = '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'
