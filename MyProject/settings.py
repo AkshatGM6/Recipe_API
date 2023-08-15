@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@q$*qd#qsu^bx$xa)2b*(9jslcddasv9tu1etc@4d-c*vlz&vv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['192.168.1.90', 'https://recipegenerator-828af9a1e07f.herokuapp.com']
+ALLOWED_HOSTS = ['192.168.1.90']
 
 
 
